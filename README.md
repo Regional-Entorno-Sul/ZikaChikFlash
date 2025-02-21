@@ -13,3 +13,5 @@ ZikaChikFlash.exe [ano] [municipio] --[tipo]
 
 Exemplo: ZikaChikFlash.exe 2024 5212501 --chik
 ~~~
+
+## Como usar?  
