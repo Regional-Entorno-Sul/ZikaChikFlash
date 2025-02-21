@@ -23,7 +23,7 @@ Exemplo: ZikaChikFlash.exe 2024 5212501 --chik
 
 3. Colocar na subpasta "dbf" o arquivo de notificações individuais gerado pelo módulo de exportação DBF do SINAN NET (nindinet.dbf) para geração da planilha do agravo "Doença aguda pelo vírus Zika" ou colocar na subpasta "zip", arquivo com os casos de Febre de Chikungunya gerado pelo SINAN Online se a intenção é de gerar uma planilha com os casos deste agravo. Com relação a este último arquivo, não é necessário descompactá-lo dentro da subpasta "zip", pois o próprio programa já faz esse processo de forma automática.  
 
-
+4. Com o arquivo ou arquivos com os dados no seu devido lugar, 
 
 ![x](/pic2.jpg)  
 
