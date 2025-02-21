@@ -20,3 +20,6 @@ Exemplo: ZikaChikFlash.exe 2024 5212501 --chik
 2. Descompactar o arquivo resultante do download usando um descompactador com suporte à extensão zip. Após a descompactação, a pasta "ZikaChikFlash" deverá ser movida para o disco local C ou unidade local C no PC do usuário;
 
 ![x](/pic1.jpg)  
+
+3. Colocar na subpasta "dbf" o arquivo de notificações individuais gerado pelo módulo de exportação DBF do SINAN NET (nindinet.dbf) para geração da planilha do agravo "Doença aguda pelo vírus Zika" ou colocar na subpasta "zip" 
+
