@@ -27,6 +27,8 @@ Exemplo: ZikaChikFlash.exe 2024 5212501 --chik
 
 ![x](/pic2.jpg)  
 
+5. O resultado final será uma planilha no formato CSV, que estará disponível na subpasta "out"
+
 
 
 
