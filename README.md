@@ -15,3 +15,6 @@ Exemplo: ZikaChikFlash.exe 2024 5212501 --chik
 ~~~
 
 ## Como usar?  
+
+Fazer o download do programa na área de executáveis;
+
