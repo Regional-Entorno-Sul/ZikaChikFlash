@@ -17,5 +17,5 @@ Exemplo: ZikaChikFlash.exe 2024 5212501 --chik
 ## Como usar?  
 
 1. Fazer o download do programa na área de releases desse repositório;
-2. Descompactar o arquivo resultante do download no disco local C ou unidade local C, usando um descompactador com suporte à extensão zip. Após a descompactação, a pasta "ZikaChikFlash" deverá ser 
+2. Descompactar o arquivo resultante do download usando um descompactador com suporte à extensão zip. Após a descompactação, a pasta "ZikaChikFlash" deverá ser movida para o disco local C ou unidade local C;
 
